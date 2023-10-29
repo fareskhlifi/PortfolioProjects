@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/hp/Downloads/WSDA_Music.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="5253"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,5:mainTrack"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Album" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="84"/><column index="2" value="280"/><column index="3" value="76"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Artist" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="76"/><column index="2" value="187"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Customer" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="111"/><column index="2" value="97"/><column index="3" value="105"/><column index="4" value="300"/><column index="5" value="300"/><column index="6" value="167"/><column index="7" value="55"/><column index="8" value="124"/><column index="9" value="106"/><column index="10" value="165"/><column index="11" value="157"/><column index="12" value="233"/><column index="13" value="131"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Employee" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="112"/><column index="2" value="95"/><column index="3" value="97"/><column index="4" value="157"/><column index="5" value="98"/><column index="6" value="162"/><column index="7" value="162"/><column index="8" value="228"/><column index="9" value="85"/><column index="10" value="55"/><column index="11" value="78"/><column index="12" value="106"/><column index="13" value="148"/><column index="14" value="148"/><column index="15" value="214"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Genre" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="80"/><column index="2" value="144"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Invoice" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="93"/><column index="2" value="111"/><column index="3" value="162"/><column index="4" value="300"/><column index="5" value="167"/><column index="6" value="109"/><column index="7" value="132"/><column index="8" value="160"/><column index="9" value="66"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="InvoiceLine" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="129"/><column index="2" value="93"/><column index="3" value="75"/><column index="4" value="88"/><column index="5" value="84"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="MediaType" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="121"/><column index="2" value="212"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Playlist" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="91"/><column index="2" value="199"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="PlaylistTrack" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="91"/><column index="2" value="75"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Track" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="6" mode="1"/></sort><column_widths><column index="1" value="75"/><column index="2" value="187"/><column index="3" value="84"/><column index="4" value="121"/><column index="5" value="80"/><column index="6" value="244"/><column index="7" value="115"/><column index="8" value="97"/><column index="9" value="88"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="V_AvgTotal" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="128"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="V_Tracks_InvoiceLine" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="93"/><column index="2" value="88"/><column index="3" value="84"/><column index="4" value="171"/><column index="5" value="262"/><column index="6" value="115"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1"></sql><sql name="SQL 3">/*
+created by fares khelifi
+create date: mm/dd/yyyy
+description: This query displays all customers first, last names and email addresses
+*/
+
+SELECT
+  FirstName AS [Customer First Name], 
+  LastName AS 'Customer Last Name', 
+  Email AS EMAIL
+FROM 
+  Customer
+ORDER BY
+  FirstName ASC,
+  LastName DESC 
+LIMIT 10
+</sql><sql name="SQL 4">/*
+How many invoices exist between $0.99 and $5.00? 
+*/
+
+/*
+Created By: fares khelifi
+Create Date: 18/10/2023
+Description: How many invoices do we have are exactly $1.98 or $3.96 ?
+*/
+
+SELECT 
+  InvoiceDate,
+  BillingAddress,
+  BillingCity,
+  total
+FROM 
+  Invoice
+WHERE 
+  BillingCity LIKE 'B%'
+Order BY 
+  InvoiceDate</sql><sql name="SQL 5">/*
+created by: fares khelifi
+creation date: 20/10/2023
+Description: JOINS
+*/
+
+SELECT
+  c.LastName,
+  c.FirstName,
+  i.InvoiceId,
+  i.CustomerId,
+  i.InvoiceDate,
+  i.total
+FROM 
+  Customer as c
+INNER JOIN
+  Invoice as i
+ON 
+  c.CustomerId = i.CustomerId
+ORDER BY 
+  c.CustomerId</sql><sql name="SQL 6">/*
+crated by fares khelifi
+create date: 20/10/2023
+Description: JOINS on more than two tables | What employees are responsible for the 10 heighest individual sales
+*/
+
+SELECT 
+  e.FirstName,
+  e.LastName,
+  e.EmployeeId,
+  c.FirstName,
+  c.LastName,
+  c.SupportRepId,
+  i.CustomerId,
+  i.total
+FROM 
+  Invoice AS i
+INNER JOIN 
+  Customer AS c
+ON 
+  c.CustomerId = i.CustomerId
+INNER JOIN 
+  Employee as e
+ON 
+  e.EmployeeId = c.SupportRepId
+ORDER BY
+  i.total DESC
+LIMIT 10</sql><sql name="SQL 7">/*
+Created by: Fares khelifi
+Creation date: 23/10/2023
+Descritpion: Create a mailing List of US Customers
+*/
+
+SELECT 
+  FirstName,
+  LastName,
+  Address,
+  FirstName || ' ' || LastName || ' ' || Address || ', ' || City || '' || State || ' ' || PostalCode AS [Mailing Address],
+  LENGTH(PostalCode),
+  SUBSTR(PostalCode, 1, 5) AS [5 digit Postal Code],
+  upper(FirstName) AS [First Name ALL caps],
+  lower(lastname) AS [Last Name ALL lower]
+FROM
+  Customer
+WHERE 
+  Country = 'USA'</sql><sql name="SQL 8">/*
+calculate the customers age
+*/
+
+SELECT 
+  FirstName,
+  LastName,
+  BirthDate,
+  strftime('%Y-%m-%d', BirthDate) AS [BirthDate No Timecode],
+  strftime('%Y-%m-%d','now') - strftime('%Y-%m-%d', BirthDate) AS  Age
+FROM
+  Employee</sql><sql name="SQL 9">/*
+Description: Aggregate functions | What are our all time global sales?
+*/
+
+SELECT
+  SUM(Total) AS [Total Sales],
+  round(AVG(Total),2) AS [Average Sales],
+  MAX(Total) AS [Max Sale],
+  MIN(Total) AS [Min Sale],
+  COUNT(*) AS [Sales Count]
+  
+From 
+  Invoice</sql><sql name="SQL 10">/*
+Description: Grouping in SQL, What are the average invoice totals by city for only the cities that start with L?
+What are the average invoice totals greater than $5.00 for cities starting with B?
+*/
+
+SELECT 
+  BillingCity,
+  round(AVG(Total),2) AS [Average Total Sales by city]
+FROM 
+  Invoice
+WHERE 
+  BillingCity like 'B%'
+GROUP BY 
+  BillingCity
+HAVING 
+  AVG(Total) &gt; 5.00
+ORDER BY
+  BillingCity
+
+
+</sql><sql name="SQL 11">/*
+Descritpion: Grouping by more than one field at a time | What are the average invoice totals by billing country and city?
+*/
+
+SELECT 
+  BillingCountry,
+  BillingCity,
+  round(avg(total),2)
+FROM 
+  Invoice
+GROUP BY  
+  BillingCountry, BillingCity
+Order By 
+  BillingCountry</sql><sql name="SQL 12">/*
+Description: Subqueries | Gather data about all invoices that are less than this average ?
+*/
+
+SELECT 
+  InvoiceDate,
+  BillingAddress,
+  BillingCity,
+  Total 
+FROM 
+  Invoice
+WHERE 
+  total &lt; (select avg(total) from Invoice)
+ORDER BY 
+  total DESC </sql><sql name="SQL 13">/*
+Description: Subqueries in the SELECT | How is each individual city performing against the global average sales ?
+*/
+
+SELECT 
+  BillingCity,
+  round(AVG(total),2)AS [City average],
+  (select round(avg(total),2) from invoice) AS [Global average]
+FROM 
+  Invoice
+Group BY
+  BillingCity
+ORDER BY
+  BillingCity</sql><sql name="SQL 14">/*
+Description: Subqueries without Aggregate functions
+*/
+
+SELECT
+  InvoiceDate,
+  BillingAddress,
+  BillingCity
+FROM 
+  Invoice
+WHERE 
+InvoiceDate &gt;
+(SELECT
+   InvoiceDate
+ FROM 
+   Invoice
+ WHERE 
+   InvoiceId = 251)</sql><sql name="SQL 15">/*
+Description:  Returning multiple values from a subquery
+*/
+
+SELECT 
+  InvoiceDate,
+  BillingAddress, 
+  BillingCity
+FROM 
+  Invoice
+WHERE
+  InvoiceDate in
+  (SELECT 
+    InvoiceDate
+   FROM 
+     Invoice
+   WHERE
+     InvoiceId in (251, 252, 254))</sql><sql name="SQL 16">/*
+Description: Subqueries and DISTINCT | which tracks are not selling ?
+*/
+
+SELECT
+  TrackId,
+  Composer,
+  Name
+FROM 
+  Track
+WHERE 
+  TrackId
+  NOT IN
+
+(SELECT 
+  DISTINCT  
+  TrackId
+FROM 
+  InvoiceLine
+ORDER BY
+  TrackId)</sql><sql name="SQL 17">/*
+created by: fares khelifi
+creation date: 24/10/2023
+Description: Views
+*/
+CREATE VIEW V_AvgTotal AS
+SELECT 
+  round(avg(total),2) AS [Average Total]
+FROM 
+  Invoice
+  
+-- DROP VIEW V_AvgTotal / Deleting a View</sql><sql name="SQL 18">/*
+Description: Views and Joins
+*/
+CREATE VIEW V_Tracks_InvoiceLine AS
+SELECT 
+  il.InvoiceId,
+  il.UnitPrice,
+  il.Quantity,
+  t.Name,
+  t.Composer,
+  t.Milliseconds
+FROM 
+  InvoiceLine il
+INNER JOIN 
+  Track t
+ON 
+  il.TrackId = t.TrackId
+  
+</sql><sql name="SQL 19">/*
+Description: DML | insert Data 
+*/
+
+INSERT INTO
+  Artist(Name)
+VALUES ('Samara')</sql><sql name="SQL 20">/*
+Description: DML | Updating Data 
+*/
+
+UPDATE 
+  Artist
+SET Name = 'Sanfara'
+WHERE ArtistId = 276</sql><sql name="SQL 21">/*
+Description: DML | Deleting Data 
+*/
+
+DELETE FROM 
+  Artist
+WHERE 
+  ArtistId = 276</sql><sql name="SQL 22">SELECT 
+  DISTINCT composer
+FROM 
+  Track 
+</sql><current_tab id="20"/></tab_sql></sqlb_project>
